@@ -1,0 +1,14 @@
+电信改APN提高网速
+打开设置-更多-移动网络-接入点名称（APN）
+新建APN
+进入一个页面
+名称随意设置
+APN设置为ctlte（注意小写）
+其他（从代理到彩信端口不设置）
+MCC与MNC不改变
+身份类型选择   PAP或CHAP
+APN类型  default,mms,supl,hipri,ia
+APN协议与APN漫游协议不改变不设置
+承载系统选择 LTE
+MVNO类型选择 无
+保存即可

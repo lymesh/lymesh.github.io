@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[图片放大神器【waifu2x】瞬间解决图片模糊]]></title>
+    <url>%2F2018%2F01%2F10%2F3%2F</url>
+    <content type="text"><![CDATA[前言 遇见好看的图片又觉得不够清晰？扔掉又觉得可惜，非常适合当桌面壁纸舰娘图，奈何分辨率太低，到处找老司机求“原图”，强大的小图扩大图图片放大神器【waifu2x】瞬间解决图片模糊 waifu2x其实是一个日本技术宅看到了一篇论文想到的一个图像拉伸算法，他基于人工智能神经网络运算，将一堆gal的图片缩小再把他们的原图放到一起，让waifu去学习如何放大拉伸，所以一般waifu下来都有一个model文件夹这东西就是他的训练集，相当于人的大脑，至于为什么是宅嘛，你看这个算法名字就知道了，总之对于二次元图片来说，扩图降噪一次搞定，效果非常之好，可谓是神器了 支持风格: 插图、照片 在线版可以在这个地址上使用：http://waifu2x.udp.jp/index.zh-CN.html 但是在线版最大图片为5M，最大上传分辨率为1500*1500，且最大放大倍数为2倍，还是有诸多限制，且连接不稳定可能需要爬墙，使用还是不方便，不过幸运的是，作者不仅创造了这个神器的算法，还在GitHub上进行了开源， GitHub主页在这里：https://github.com/nagadomi/waifu2x 于是就有人根据这个算法制作了waifu2x-caffe这个可以本地使用的软件。 GitHub主页：https://github.com/lltcggie/waifu2x-caffe。 waifu2x-caffe是windows平台下的带GUI的软件，使用非常方便，因为使用了神经网络运算，N卡使用CUDA模式使用GPU转换速度非常之快，但没有N卡的用户就只能使用CPU进行运算，速度慢了数十上百倍（所以说A卡你怎么还活着？），具体使用和下载在GitHub主页都有这里就不再多话了。恩，有了这个软件，麻麻再也不用担心我没有壁纸了，不管什么二次元图片，都能扩扩扩。 ——原文来自老D博客 “https://laod.cn/tools/waifu2x-tupian.html“]]></content>
+      <categories>
+        <category>图片放大神器</category>
+      </categories>
+      <tags>
+        <tag>图片放大神器</tag>
+        <tag>waifu2x</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[电信改APN提高网速]]></title>
+    <url>%2F2018%2F01%2F07%2F2%2F</url>
+    <content type="text"><![CDATA[前言还在为网速慢而苦恼吗？电信改APN提高网速 打开设置-更多-移动网络-接入点名称（APN） 新建APN，进入一个页面 名称随意设置 4.APN设置为ctlte（注意小写）5.其他（从代理到彩信端口不设置）6.MCC与MNC不改变7.身份类型选择 PAP或CHAP8.APN类型 default,mms,supl,hipri,ia9.APN协议与APN漫游协议不改变不设置10.承载系统选择 LTE11.MVNO类型选择 无12.保存即可13.下面上图14.那么大家赶紧去设置看看自己的网速辣……-……^-^!!!!!]]></content>
+      <categories>
+        <category>提高网速</category>
+      </categories>
+      <tags>
+        <tag>网速</tag>
+        <tag>电信</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo测试]]></title>
+    <url>%2F2018%2F01%2F05%2Fmy-first-blog%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! 前言使用github pages服务搭建博客的好处有： 全是静态文件，访问速度快； 免费方便，不用花一分钱就可以搭建一个自由的个人博客，不需要服务器不需要后台； 可以随意绑定自己的域名，不仔细看的话根本看不出来你的网站是基于github的； 数据绝对安全，基于github的版本管理，想恢复到哪个历史版本都行； 博客内容可以轻松打包、转移、发布到其它平台； 等等；]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hexo github]]></title>
+    <url>%2F2018%2F01%2F05%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>

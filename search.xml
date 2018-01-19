@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[postName]]></title>
+    <url>%2F2018%2F01%2F19%2F4%2F</url>
+    <content type="text"><![CDATA[前言回到家发现自己联通4G用不了，结果3G也用不了，那这就很尴尬了。一通研究发现原来是apn设置的问题………… 正文 新建一个APN，名称随便起； 然后把APN修改uninet（仅限山里面没有4g的联通…^-^）； 其他不改不变，保存即可； 附带联通改APN提高网速的方法 新建一个APN，名称随便起； APN设置为wonet； APN类型设置为default,supl,clun 承载系统设为LTE； 其他不做设置； 附图]]></content>
+      <categories>
+        <category>默认分类</category>
+      </categories>
+      <tags>
+        <tag>APN</tag>
+        <tag>网速</tag>
+        <tag>联通</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[图片放大神器【waifu2x】瞬间解决图片模糊]]></title>
     <url>%2F2018%2F01%2F10%2F3%2F</url>
     <content type="text"><![CDATA[前言 遇见好看的图片又觉得不够清晰？扔掉又觉得可惜，非常适合当桌面壁纸舰娘图，奈何分辨率太低，到处找老司机求“原图”，强大的小图扩大图图片放大神器【waifu2x】瞬间解决图片模糊 waifu2x其实是一个日本技术宅看到了一篇论文想到的一个图像拉伸算法，他基于人工智能神经网络运算，将一堆gal的图片缩小再把他们的原图放到一起，让waifu去学习如何放大拉伸，所以一般waifu下来都有一个model文件夹这东西就是他的训练集，相当于人的大脑，至于为什么是宅嘛，你看这个算法名字就知道了，总之对于二次元图片来说，扩图降噪一次搞定，效果非常之好，可谓是神器了 支持风格: 插图、照片 在线版可以在这个地址上使用：http://waifu2x.udp.jp/index.zh-CN.html 但是在线版最大图片为5M，最大上传分辨率为1500*1500，且最大放大倍数为2倍，还是有诸多限制，且连接不稳定可能需要爬墙，使用还是不方便，不过幸运的是，作者不仅创造了这个神器的算法，还在GitHub上进行了开源， GitHub主页在这里：https://github.com/nagadomi/waifu2x 于是就有人根据这个算法制作了waifu2x-caffe这个可以本地使用的软件。 GitHub主页：https://github.com/lltcggie/waifu2x-caffe。 waifu2x-caffe是windows平台下的带GUI的软件，使用非常方便，因为使用了神经网络运算，N卡使用CUDA模式使用GPU转换速度非常之快，但没有N卡的用户就只能使用CPU进行运算，速度慢了数十上百倍（所以说A卡你怎么还活着？），具体使用和下载在GitHub主页都有这里就不再多话了。恩，有了这个软件，麻麻再也不用担心我没有壁纸了，不管什么二次元图片，都能扩扩扩。 ——原文来自老D博客 “https://laod.cn/tools/waifu2x-tupian.html“]]></content>

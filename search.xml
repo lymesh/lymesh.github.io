@@ -21,9 +21,9 @@
         <category>直播</category>
       </categories>
       <tags>
+        <tag>APP</tag>
         <tag>安卓</tag>
         <tag>Android</tag>
-        <tag>APP</tag>
       </tags>
   </entry>
   <entry>
@@ -72,9 +72,9 @@
         <category>提高网速</category>
       </categories>
       <tags>
-        <tag>移动</tag>
-        <tag>APN</tag>
         <tag>网速</tag>
+        <tag>APN</tag>
+        <tag>移动</tag>
       </tags>
   </entry>
   <entry>
@@ -97,8 +97,8 @@
         <category>提高网速</category>
       </categories>
       <tags>
-        <tag>APN</tag>
         <tag>网速</tag>
+        <tag>APN</tag>
         <tag>联通</tag>
       </tags>
   </entry>
